@@ -1,3 +1,4 @@
+import { Transform } from 'stream';
 import {
   Column,
   CreateDateColumn,
